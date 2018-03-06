@@ -48,7 +48,7 @@ if __name__ == '__main__':
 
     start = time.clock()
     out = autoencoder.predict(input)
-    activation=get_one_activation(autoencoder,input,autoencoder.get_layer(index=25))
+    activation=get_one_activation(autoencoder,input,autoencoder.get_layer(name='encoded'))
     print(activation)
 
 
