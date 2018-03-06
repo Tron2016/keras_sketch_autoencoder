@@ -26,3 +26,5 @@ python autoencoder.py
 python predict.py
 
 ```
+## Reference
+[1] Yu Q, Yang Y, Song Y Z, et al. Sketch-a-net that beats humans[J]. arXiv preprint arXiv:1501.07873, 2015.
