@@ -4,9 +4,12 @@ This is a implementation of sketch image autoencoder based on tensorflow and ker
 
 #For Train 
 
-put sketch images into 
+You can download sketch data set from [TU Berlin](http://cybertron.cg.tu-berlin.de/eitz/projects/sbsr/)
+
+put the sketch images into:
 
 data/train
+
 data/valid
 
 simply run:
